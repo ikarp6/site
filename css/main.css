@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+    font-size: 30px
+}
+
+.new span {
+    color:red;
+}
+
+.text {
+    color: white;
+    border-radius: 4px solid blue;
+    background-color: blue;
+    width: 100px;
+}
+
+h2 {
+   color: white;
+    border: 2px color green;
+    background-color: green;
+}
+.zagol {
+    color: white;
+    border: 2px color green;
+    background-color: green;
+    height: 50px;
+    padding: 50px;
+}
+.spisok {
+    font-size: 30px;
+    
+}
+.pi{
+    border: 2px solid black;
+}
+.pa{
+    border: 2px solid black;
+}
+.po{
+    border: 2px solid black;
+}
